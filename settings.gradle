@@ -1,0 +1,4 @@
+rootProject.name = "SimpsonsCharacter"
+include ':SimpsonsCharacter'
+include ':wireviewer'
+include ':common'
